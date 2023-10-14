@@ -1,11 +1,10 @@
 {
-  "name": "portfolio",
+  "name": "temp-convertor-tailwind-css",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "akash": "vite",
-    "build":"vite build"
+    "start": "vite"
   },
   "keywords": [],
   "author": "",
